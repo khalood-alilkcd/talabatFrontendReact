@@ -1,0 +1,13 @@
+.scrollTrackHorizontal {
+    height: 5px;
+    background-color: blue;
+  }
+  
+  .scrollThumbHorizontal {
+    height: 100%;
+    background-color: #ffffff;
+  }
+
+  .inline{
+    display: inline;
+  }
